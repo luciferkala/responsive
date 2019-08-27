@@ -1,0 +1,29 @@
+@media only screen and (max-width: 767px) and (min-width: 480px) {
+  .container {
+    width: 420px;
+  }
+  .mobile_btn {
+    display: block;
+    z-index: 1000;
+    float: right;
+  }
+  .nav_list {
+    display: none;
+  }
+  .nav_li {
+    display: block;
+    margin: 10px;
+  }
+  .works_row {
+    display: block;
+  }
+  .notices_row {
+    display: block;
+  }
+  .footer_row {
+    display: block;
+  }
+  .MuiPaper-root {
+    justify-content: center;
+  }
+}

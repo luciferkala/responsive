@@ -1,0 +1,30 @@
+@media only screen and (max-width: 767px) {
+  .container {
+    width: 300px;
+  }
+  .mobile_btn {
+    display: block;
+    z-index: 1000;
+    float: right;
+  }
+  .nav_list {
+    display: none;
+    margin: 10px;
+  }
+  .nav_li {
+    display: block;
+    margin: 10px;
+  }
+  .works_row {
+    display: block;
+  }
+  .notices_row {
+    display: block;
+  }
+  .footer_row {
+    display: block;
+  }
+  .MuiPaper-root {
+    justify-content: center;
+  }
+}
